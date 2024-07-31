@@ -1,0 +1,42 @@
+{
+  "nuevoContacto": [
+    {
+      "Id": "1",
+      "Nombre": "Kenneth",
+      "Apellido 1": "Abarca",
+      "Apelido 2": "Monge",
+      "Correo": "kennethabarca25@gmail.com",
+      "Telefono": "60884144",
+      "Comentarios": "Hola",
+      "Fecha Registro": "18-07-2024"
+    },
+    {
+      "Id": "2",
+      "Nombre": "Adolfo",
+      "Apellido 1": "Vargas",
+      "Apelido 2": "Sandoval",
+      "Correo": "adolfovargas@gmail.com",
+      "Telefono": "85855858",
+      "Comentarios": "Hola-Hola",
+      "Fecha Registro": "18-07-2024"
+    },
+    {
+      "Id": "3",
+      "Nombre": "Jairo",
+      "Apellido 1": "Vargas",
+      "Apelido 2": "Sandoval",
+      "Correo": "adolfovargas@gmail.com",
+      "Telefono": "85855858",
+      "Comentarios": "Hola-Hola",
+      "Fecha Registro": "18-07-2024"
+    },
+    {
+      "nombre": "Kenneth",
+      "apellidos": "Abarca Monge ",
+      "correo": "etrhgbd",
+      "telefono": "",
+      "consola": "1",
+      "comentarios": "Consola: 1\n                                      \nVideo Juego: [object Object],[object Object],[object Object]\n                                      \n "
+    }
+  ]
+}

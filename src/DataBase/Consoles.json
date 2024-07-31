@@ -1,0 +1,51 @@
+{
+    "Consoles": 
+    [
+       {
+            "Id": "1", 
+            "nombreConsola" : "Play Station 1",
+            "descripcionGeneral": "Consola Primera Generacion",
+            "detalleConsola" : "Todas las especificaciones del play 1",
+            "imagenConsola" : "PlayStation.png",
+            "imagenModal" : "PS1.jpeg",
+            "EstiloConsola" : "1"
+       },
+       {
+            "Id": "2", 
+            "nombreConsola" : "Play Station 2",
+            "descripcionGeneral": "Consola Segunda Generacion",
+            "detalleConsola" : "Todas las especificaciones del play 2",
+            "imagenConsola" : "PlayStation.png",
+            "imagenModal" : "PS2.jpeg", 
+            "EstiloConsola" : "1"
+        },
+        {
+            "Id": "3", 
+            "nombreConsola" : "Play Station 3",
+            "descripcionGeneral": "Consola Tercera Generacion",
+            "detalleConsola" : "Todas las especificaciones del play 3",
+            "imagenConsola" : "PlayStation.png",
+            "imagenModal" : "PS3.jpeg", 
+            "EstiloConsola" : "1"
+         },      
+         {
+            "Id": "4", 
+            "nombreConsola" : "Play Station 4",
+            "descripcionGeneral": "Consola Cuarta Generacion",
+            "detalleConsola" : "Todas las especificaciones del play 4",
+            "imagenConsola" : "PlayStation.png",
+            "imagenModal" : "PS4.jpeg", 
+            "EstiloConsola" : "1"
+         },
+         {
+            "Id": "5", 
+            "nombreConsola" : "Play Station 5",
+            "descripcionGeneral": "Consola Quinta Generacion",
+            "detalleConsola" : "Todas las especificaciones del play 5",
+            "imagenConsola" : "PlayStation.png",
+            "imagenModal" : "PS5.jpeg", 
+            "EstiloConsola" : "1"
+         }
+         
+    ]  
+  }

@@ -1,0 +1,80 @@
+{
+    "VideoJuegos": 
+    [
+       {
+            "IdVideoJuego": "1", 
+            "nombreVideoJuego" : "Crash Bandicoot",
+            "IdConsola": "1"
+       },
+       {
+            "IdVideoJuego": "2", 
+            "nombreVideoJuego" : "Pepsiman",
+            "IdConsola": "1"
+        },
+        {
+            "IdVideoJuego": "3", 
+            "nombreVideoJuego" : "Resident Evil (Nemesis Edition)",
+            "IdConsola": "1"
+         },      
+         {
+            "IdVideoJuego": "4", 
+            "nombreVideoJuego" : "Tony Hawk 4",
+            "IdConsola": "2"
+         },
+         {
+            "IdVideoJuego": "5", 
+            "nombreVideoJuego" : "Smack Down",
+            "IdConsola": "2"
+         },
+         {
+            "IdVideoJuego": "6", 
+            "nombreVideoJuego" : "God of War",
+            "IdConsola": "2"
+         },
+         {
+            "IdVideoJuego": "7", 
+            "nombreVideoJuego" : "Call of Duty (Black Ops 2)",
+            "IdConsola": "3"
+         },
+         {
+            "IdVideoJuego": "8", 
+            "nombreVideoJuego" : "God of War III",
+            "IdConsola": "3"
+         },
+         {
+            "IdVideoJuego": "9", 
+            "nombreVideoJuego" : "Uncharted 2",
+            "IdConsola": "3"
+         },
+         {
+            "IdVideoJuego": "10", 
+            "nombreVideoJuego" : "God of War Ragnarok",
+            "IdConsola": "4"
+         },
+         {
+            "IdVideoJuego": "11", 
+            "nombreVideoJuego" : "Gran Turismno 7",
+            "IdConsola": "4"
+         },
+         {
+            "IdVideoJuego": "12", 
+            "nombreVideoJuego" : "Grand Theft Auto V",
+            "IdConsola": "4"
+         },
+         {
+            "IdVideoJuego": "13", 
+            "nombreVideoJuego" : "Call of Duty (Black Ops 6)",
+            "IdConsola": "5"
+         },
+         {
+            "IdVideoJuego": "14", 
+            "nombreVideoJuego" : "FC 24",
+            "IdConsola": "5"
+         },
+         {
+            "IdVideoJuego": "15", 
+            "nombreVideoJuego" : "Grand Theft Auto VI (Preventa)",
+            "IdConsola": "5"
+         }         
+    ]  
+  }
