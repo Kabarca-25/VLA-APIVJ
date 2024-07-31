@@ -5,7 +5,7 @@ const RouterVideoJuegos = require("./Routes/VideoJuegosRoute")
 const RouterContacto = require("./Routes/ContactoRoute")
 
 const app = express();
-const puerto = 3015;
+const puerto = process.env.PORT || 3015;
 
 app.use((req, res, next) => {
     res.header('Access-Control-Allow-Origin', '*');
@@ -20,6 +20,10 @@ app.use("/api/route", RouterLogin);
 app.use("/api/route", RouterConsole);
 app.use("/api/route", RouterVideoJuegos);
 app.use("/api/route", RouterContacto);
+
+app.get("/", (req, res) => {
+  res.send("Hola Mundo");
+})
 
 app.listen(puerto, () => {
   console.log("Se ha refrescado el sitio en puerto: ",puerto);
